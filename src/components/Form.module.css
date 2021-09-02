@@ -1,0 +1,16 @@
+.form {
+	text-align: center;
+	width: 70%;
+	background-color: azure;
+	border-radius: 10px;
+	margin: auto;
+	padding: 1rem;
+}
+
+.error {
+	color: red;
+}
+
+.center {
+	text-align: center;
+}
